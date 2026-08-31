@@ -18,6 +18,11 @@ These docs aims to centeralize information about configuring my mods, whether th
     icon: 'https://cdn.modrinth.com/data/AHH3ZcfB/de2eec9a4f354b1c8a56dd2a23c70282f527d649.png',
   },
   {
+    name: 'Realistic Campfires',
+    href: './realistic-campfires',
+    icon: 'https://cdn.modrinth.com/data/ZEMQmiVU/e6bd19f8b0ec6c0a8cebb0557cc3837b81c000fc.png'
+  },
+  {
     name: 'Cloud Dash',
     href: './cloud-dash',
     icon: 'https://cdn.modrinth.com/data/dXh8W5Oy/b510b98aa5a631733226f332551bd8bff11bb25c.png'

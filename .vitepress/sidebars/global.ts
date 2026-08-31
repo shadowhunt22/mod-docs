@@ -13,6 +13,10 @@ export default [
         link: "/mods/armor-indicator/index"
       },
       {
+        text: "Realistic Campfires",
+        link: "/mods/realistic-campfires/index"
+      },
+      {
         text: "Cloud Dash",
         link: "/mods/cloud-dash/index"
       },
