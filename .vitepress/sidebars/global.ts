@@ -27,6 +27,10 @@ export default [
       {
         text: "Enchantment Tooltips",
         link: "/mods/enchantment-tooltips/index"
+      },
+      {
+        text: "Realistic Torches",
+        link: "/mods/realistic-torches/index"
       }
     ]
   }

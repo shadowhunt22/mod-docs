@@ -36,5 +36,10 @@ These docs aims to centeralize information about configuring my mods, whether th
     name: 'Enchantment Tooltips',
     href: './enchantment-tooltips',
     icon: 'https://cdn.modrinth.com/data/3bFvpYxQ/7ee53140d5c945d74cdc14f85806fc60d4872f7e.jpeg'
+  },
+  {
+    name: 'Realistic Torches',
+    href: './realistic-torches',
+    icon: 'https://cdn.modrinth.com/data/j68jILSN/e6f94053e14ce5ff8470a5faf958aaefa2f97f73.png' 
   }
 ]" />
