@@ -116,9 +116,15 @@ To modify or add blocks that can be placed onto the campfire:
 ```json
 {
     "values": {
-        "minecraft:stick": 1,
-        "minecraft:torch": 2,
-        "minecraft:netherite_hoe": 4
+        "minecraft:coal_block": {
+            "model": "cube_all"
+        },
+        "minecraft:basalt": {
+            "model": "multi_face"
+        },
+        "modid:log": {
+            "model": "log"   
+        }
     }
 }
 ```
